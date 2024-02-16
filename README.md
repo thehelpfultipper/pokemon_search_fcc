@@ -5,6 +5,8 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/thehelpfultipper/
 ## Objective
 A Pokemon search app project inspired by the FreeCodeCamp curriculum. This app allows users to search for Pokémon by name or ID and displays the results to the user. It also provides autosuggestions on the search input to assist users in finding Pokémon names, even if they are unsure about the spelling.
 
+**View tutorial:** [How To Build A Futuristic Pokémon Search App (FreeCodeCamp Challenge)](https://thehelpfultipper.com/build-futuristic-pokemon-search-app-freecodecamp/)
+
 ![Pokemon search app screenshot](https://thehelpfultipper.com/wp-content/uploads/2024/02/pokemon-search-app-freecodecamp.png)
 
 ## Features
